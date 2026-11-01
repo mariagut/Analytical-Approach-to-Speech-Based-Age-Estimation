@@ -1,0 +1,15 @@
+# Feature extraction (features.ipynb) — versions affect feature values
+numpy==1.26.2
+scipy==1.11.4
+librosa==0.10.2.post1
+soundfile==0.12.1
+praat-parselmouth>=0.4.3,<0.5
+threadpoolctl>=3.2
+
+# Data loading / statistics (ageing_stats.ipynb)
+pandas>=1.5,<3
+pyarrow>=14
+
+# Notebooks
+jupyter
+ipykernel
